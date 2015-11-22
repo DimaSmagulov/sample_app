@@ -1,0 +1,15 @@
+one:
+  follower: dima
+  followed: lana
+
+two:
+  follower: dima
+  followed: malory
+
+three:
+  follower: lana
+  followed: dima
+
+four:
+  follower: archer
+  followed: dima
